@@ -1,0 +1,48 @@
+{
+    "productList": [
+      {
+        "id": "dumbell",
+        "name": "dumbell",
+        "price": 5.67,
+        "thumbnail": "https://i.pinimg.com/236x/0d/a8/87/0da8872e1ca3e247aef7f75f64a75a5f--learn-coding-logos.jpg"
+        
+      },
+      {
+        "id": "power-rack",
+        "name": "Power Rack",
+        "price": 25.76,
+        "thumbnail": "https://i.pinimg.com/236x/0d/a8/87/0da8872e1ca3e247aef7f75f64a75a5f--learn-coding-logos.jpg"
+      },
+      {
+        "id": "treadmill",
+        "name": "Treadmill",
+        "price": 78.99,
+        "thumbnail": "https://i.pinimg.com/236x/0d/a8/87/0da8872e1ca3e247aef7f75f64a75a5f--learn-coding-logos.jpg"
+      },
+      {
+        "id": "squat-rack",
+        "name": "Squat Rack",
+        "price": 55.99,
+        "thumbnail": "https://i.pinimg.com/236x/0d/a8/87/0da8872e1ca3e247aef7f75f64a75a5f--learn-coding-logos.jpg"
+       
+      },
+
+      {
+        "id": "squat-rack",
+        "name": "Squat Rack",
+        "price": 55.99,
+        "thumbnail": "https://i.pinimg.com/236x/0d/a8/87/0da8872e1ca3e247aef7f75f64a75a5f--learn-coding-logos.jpg"
+       
+      },
+
+      {
+        "id": "squat-rack",
+        "name": "Squat Rack",
+        "year": 55.99,
+        "price": "https://i.pinimg.com/236x/0d/a8/87/0da8872e1ca3e247aef7f75f64a75a5f--learn-coding-logos.jpg"
+       
+      }
+
+    ]
+  }
+  
